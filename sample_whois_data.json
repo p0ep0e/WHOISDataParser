@@ -1,0 +1,27 @@
+    {
+        "domain_name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "whois_server": "whois.markmonitor.com",
+        "dates": {
+            "creation_date": "1997-09-15T04:00:00Z",
+            "expiration_date": "2028-09-14T04:00:00Z",
+            "updated_date": "2019-09-09T15:39:04Z"
+        },
+        "nameserver_info": {
+            "hostNames": [
+                "NS1.GOOGLE.COM",
+                "NS2.GOOGLE.COM",
+                "NS3.GOOGLE.COM",
+                "NS4.GOOGLE.COM"
+            ]
+        },
+        "status": "clientDeleteProhibited clientTransferProhibited clientUpdateProhibited serverDeleteProhibited serverTransferProhibited serverUpdateProhibited",
+        "registrant": {
+            "organization": "Google LLC",
+            "location": {
+                 "registrant_country": "United States",
+                 "country_code": "US"
+            }
+        },
+        "registrarIANAID": "292"
+    }
