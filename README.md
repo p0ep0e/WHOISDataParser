@@ -11,6 +11,8 @@ for key, value in parsed_info.items():
 print("---------------------------------")
 
 # Example of accessing a specific variable
+
 print(f"\nRegistrar's Name: {parsed_info.get('registrarName')}")
+
 print(f"Nameservers: {parsed_info.get('nameservers')}")
 
